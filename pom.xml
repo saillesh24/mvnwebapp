@@ -3,9 +3,9 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mycompany.app</groupId>
   <artifactId>mvnwebapp</artifactId>
-  <packaging>jar</packaging>
-  <version>1.0T</version>
-  <name>my-app</name>
+  <packaging>war</packaging>
+  <version>1</version>
+  <name>mvnwebapp</name>
  
     <url>http://maven.apache.org</url>
     <build>
